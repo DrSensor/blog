@@ -1,0 +1,46 @@
+--- 
+title: "Rust Builder Pattern" 
+
+date: 2020-03-01T15:07:56+07:00
+draft: true
+
+categories:
+    - tutorials
+tags:
+    - rust
+    - design pattern
+---
+:source-language: rust
+
+= Several Variations of Builder Pattern in Rust
+Fahmi Akbar Wildana <sensorfied@gmail.com> 
+2020-03-01
+
+Builder pattern is a design pattern to separate construction of complex instance from it's representation. One of it's purpose is to make it easier to changes the data structure without deprecating the consumer facing API.
+
+// TODO: give examples of it's benefit
+
+I find several builder pattern in Rust and some of them is implementated as you found in many GoF concepts.
+[.lead]
+However, Rust is not an OOP language!
+
+<!--more-->
+
+== Redundant builder pattern
+The builder pattern is approriate when building a `T` involves side effects, such as spawning a thread or launching a process. So having 2 identical struct with same the same fields while one of the struct wrap all fields in `Option`, can be considered redundant.
+// TODO: explain more with examples and it's cons''
+
+== Borrow-Checker ⚤  Builder pattern
+In the https://doc.rust-lang.org/1.12.1/style/ownership/builders.html[old documentation],
+it mention several builder patterns that Rust have cause by ownership and borrow-checking rules.
+
+=== When to use consuming builder pattern
+
+=== When to use non-consuming builder pattern
+
+== Type specificity & Builder pattern
+
+=== Static dispatch
+
+=== Dynamic dispatch
+

@@ -1,0 +1,99 @@
+--- 
+title: "Good Api Design for Publishing a crate" 
+
+date: 2020-03-01T17:11:28+07:00
+draft: true
+
+categories:
+  - tutorials
+  - tips & tricks
+tags:
+  - rust
+  - api
+---
+:source-language: rust
+:tip-caption: 💡
+:important-caption: ❕
+
+= Good Api Design for Publishing a crate
+Mr. Wild <sensorfied@gmail.com> 
+2020-03-01
+
+[quote]
+A good DX will influences a good UX
+
+We live in https://hub.packtpub.com/what-api-economy/[API Economic] and each API can give birth to another API.
+Your basic API design influences how well developers are able to consume it and even how they use it. Just like website design or product design, API design informs the user experience.
+There even a way to measure https://100daysdx.com/82[API usability] but we will skip that. This post is about my analysis on practical API design in Rust.
+
+== Rust common API design
+Rust has https://rust-lang.github.io/api-guidelines/checklist.html[API Guidelines Checklist] and some of them are integrated in https://rust-lang.github.io/rust-clippy/stable[clippy].
+
+[quote, 100daysdx.com]
+Following just the API Design Guide can result to "valid APIs", but might have serious usability issues.
+
+=== Enforcing policy
+// TODO: preface
+
+==== via borrow checker
+// TODO: consuming vs non consuming
+
+==== via type specificity 
+// TODO: generic?
+
+===== `Enum::Struct{}` vs `Enum::Variant(Struct)`
+// TODO
+
+===== concrete type vs opaque type vs trait object
+
+=== Ergonomicness via `std` Trait
+// TODO: preface
+
+==== type with value == type with purpose
+* `Default`
+* `Debug` - all *public* concrete types (especially `enum`) must implement `Debug` trait
+* `Display`
+* `Error`
+
+[IMPORTANT]
+.Support both _Opaque_ and _Concrete_ type!
+====
+---
+This usefull, especially when dealing with `Display` trait.
+
+[source]
+device.print()
+
+[source]
+device.print_from_string()
+
+[source]
+device.print_from_html()?
+
+====
+
+==== type transformation
+* `From` and `Into`
+* `TryFrom` and `TryInto`
+* `ToString`
+
+==== iterators and `Range`
+// TODO
+
+==== operator overloading
+// TODO
+
+=== Design pattern
+Sometimes library written in Rust might have unusual design pattern *and it's fine*. +
+Just want to say that 😋
+
+== Conclusion
+Rust is unique on it's own! + 
+Yes I know, it's a cheap conlusion but what else I can say 😄
+
+---
+[quote, answer]
+What about macros?
+
+Macro in Rust is different beast. Unlike type and generic, it can't auto-generate the accepted argument and it's type. This means you need an extra effort for documenting those macros. The most practical format for documenting macros is by using examples.
+
