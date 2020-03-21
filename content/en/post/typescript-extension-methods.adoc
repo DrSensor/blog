@@ -1,0 +1,63 @@
+--- 
+title: "Typescript Extension Methods" 
+
+date: 2020-03-21T19:48:46+07:00
+draft: true
+
+categories:
+    - tutorials
+tags:
+    - typescript
+    - design pattern
+---
+:source-language: typescript
+:caution-caption: 🚨
+//:icons: font
+
+= Typescript Extension Methods
+Mr. Wild <sensorfied@gmail.com> 
+2020-03-21
+
+== Example
+
+.extend.ts
+[source]
+----
+interface String {
+  extra: 'property' | 'prop'
+  readonly getter: boolean
+  extend(other: string): string
+  getterSetter: string
+  //<2>
+}
+
+let extension: string | undefined
+
+Object.assign(String.prototype, {
+  extra: 'prop',
+  get getter() { return true },
+  extend(other: string) { return this + other },
+
+  get getterSetter() { return extension },
+  set getterSetter(ext: string) { extension = ext },
+
+  //<1>
+} as String)
+----
+<1> any declaration here will be type-checked
+<2> setter *only* property is not possible
+
+.index.ts
+[source]
+----
+import 'extend'
+
+console.log('beep'.extend('boop'))
+----
+
+[CAUTION]
+====
+.in _extend.ts_ file:
+- no `import` statement
+- no `export` statement
+====
