@@ -9,11 +9,13 @@ categories:
   - tips & tricks
 tags:
   - rust
-  - api
+  - api design
 ---
+
 :source-language: rust
 :tip-caption: 💡
 :important-caption: ❕
+:api-checklist: https://rust-lang.github.io/api-guidelines/checklist.html 
 
 = Good Api Design for Publishing a crate
 Mr. Wild <sensorfied@gmail.com> 
@@ -22,12 +24,18 @@ Mr. Wild <sensorfied@gmail.com>
 [quote]
 A good DX will influences a good UX
 
-We live in https://hub.packtpub.com/what-api-economy/[API Economic] and each API can give birth to another API.
-Your basic API design influences how well developers are able to consume it and even how they use it. Just like website design or product design, API design informs the user experience.
-There even a way to measure https://100daysdx.com/82[API usability] but we will skip that. This post is about my analysis on practical API design in Rust.
+:api-economic: https://hub.packtpub.com/what-api-economy/[API Economic]
+:api-usability: https://100daysdx.com/82[API usability] 
+
+We live in {api-economic} and each API can give birth to another API.
+Your basic API design influences how well developers are able to consume it and even how they use it.
+Just like website design or product design, API design informs the user experience.
+There even a way to measure {api-usability} but we will skip that. This post is about my analysis on practical API design in Rust.
 
 == Rust common API design
-Rust has https://rust-lang.github.io/api-guidelines/checklist.html[API Guidelines Checklist] and some of them are integrated in https://rust-lang.github.io/rust-clippy/stable[clippy].
+:clippy: https://rust-lang.github.io/rust-clippy/stable[clippy]
+
+Rust has {api-checklist}[API Guidelines Checklist] and some of them are integrated in {clippy}.
 
 [quote, 100daysdx.com]
 Following just the API Design Guide can result to "valid APIs", but might have serious usability issues.
@@ -91,7 +99,12 @@ Just want to say that 😋
 Rust is unique on it's own! + 
 Yes I know, it's a cheap conlusion but what else I can say 😄
 
+== References
+1. https://dev.to/sharkdp/my-release-checklist-for-rust-programs-1m33[_My release checklist for Rust programs_] by https://github.com/sharkdp[David Peter]
+2. {api-checklist}[_Rust API Guidelines Checklist_]
+
 ---
+== FAQ
 [quote, answer]
 What about macros?
 

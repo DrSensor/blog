@@ -18,6 +18,8 @@ tags:
 Mr. Wild <sensorfied@gmail.com> 
 2020-03-21
 
+<!--more-->
+
 == Example
 
 .extend.ts

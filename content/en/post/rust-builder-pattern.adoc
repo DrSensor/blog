@@ -10,7 +10,9 @@ tags:
     - rust
     - design pattern
 ---
+
 :source-language: rust
+:builder-pattern-docs: https://doc.rust-lang.org/1.12.1/style/ownership/builders.html
 
 = Several Variations of Builder Pattern in Rust
 Fahmi Akbar Wildana <sensorfied@gmail.com> 
@@ -21,6 +23,7 @@ Builder pattern is a design pattern to separate construction of complex instance
 // TODO: give examples of it's benefit
 
 I find several builder pattern in Rust and some of them is implementated as you found in many GoF concepts.
+
 [.lead]
 However, Rust is not an OOP language!
 
@@ -31,8 +34,8 @@ The builder pattern is approriate when building a `T` involves side effects, suc
 // TODO: explain more with examples and it's cons''
 
 == Borrow-Checker ⚤  Builder pattern
-In the https://doc.rust-lang.org/1.12.1/style/ownership/builders.html[old documentation],
-it mention several builder patterns that Rust have cause by ownership and borrow-checking rules.
+In the {builder-pattern-docs}[old documentaion],
+it mention several builder patterns that Rust have caused by ownership and borrow-checking rules.
 
 === When to use consuming builder pattern
 
