@@ -1,4 +1,4 @@
-baseurl = "https://drsensor.github.io/foss-monster"
+baseurl = "https://foss.monster"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "FOSS Monster"
