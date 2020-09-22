@@ -1,0 +1,40 @@
+--- 
+title: "Checklist for Creating CLI Tools" 
+
+date: 2020-03-25T14:13:54+07:00
+draft: true
+
+categories:
+    - "category1"
+tags:
+    - "tag1"
+    - "tag2"
+---
+
+= Checklist for Creating CLI Tools
+Mr. Wild <sensorfied@gmail.com> 
+2020-03-25
+
+:severity: https://en.wikipedia.org/wiki/Syslog#Severity_level
+
+* If a CLI has interactive prompt (accept {stdin}) *by default*,
+  * disable it when running in the CI by checking `$CI` env-var,
+  * or make it fail while providing alternative like:
+    * `please specify the input: mycli create --input-from <JSON file>`
+    * `please specify the options: mycli create --option1 <VALUE> --option2 <VALUE> --default-options`
+* Print the filepath or it's content when generating some file, especially a config file
+(be mindfull with the output to make it compatible with shell scripting)
+* Disable colored outputs when:
+  * piped to {stdin}
+  * running on CI environment
+* Give a cue when outputing to {stderr} (e.g print `(stderr)` in the header/footer)
+* {severity}[Severity level]:
+  * _warning or above_ should be printed to {stderr}
+  * _below warning_ should be printed to {stdout}
+* In case for `curl` alike, print the stream status to {stderr} when piping {stdout} to {stdin}
+* If the CLI is run in `watch` mode while piped, print the info (e.g loading progress, file content, etc) to {stderr}
+* If your CLI `help` has both short and long description, put the long one in the {manpage}
+* In the `help` flag/subcommand, give a cue when your cli has a {manpage}
+(e.g print `see man mycli(5), mycli(1) for more details` in the footer)
+
+== Shell Script-able CLI

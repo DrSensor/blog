@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<minder version="1.8.0">
+  <theme name="default" label="Default" index="-1"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-382.0526315789474" y="-576.77192982456143" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="382.0526315789474" posy="576.77192982456143" maxwidth="200" width="103" height="43" side="right" fold="false" treesize="43" layout="Horizontal">
+      <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>App Engine</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="3" posx="585.0526315789474" posy="576.77192982456143" maxwidth="200" width="109" height="43" side="right" fold="false" treesize="43" color="#c6262e" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Pre-Installed</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="794.05263157894763" posy="576.77192982456143" maxwidth="200" width="115" height="43" side="right" fold="false" treesize="43" color="#c6262e" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Web Browser</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="7" posx="382.0526315789474" posy="576.77192982456143" maxwidth="200" width="116" height="43" side="right" fold="false" treesize="258" layout="Horizontal">
+      <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>Game Engine</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="9" posx="598.05263157894751" posy="533.77192982456143" maxwidth="200" width="100" height="43" side="right" fold="false" treesize="172" color="#f37329" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Declarative</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="11" posx="798.05263157894763" posy="512.27192982456143" maxwidth="200" width="184" height="43" side="right" fold="false" treesize="129" color="#f37329" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Composable Libraries</nodename>
+              <nodenote>Usually consist of low-level stuff</nodenote>
+              <nodes>
+                <node id="13" posx="1082.0526315789475" posy="469.27192982456143" maxwidth="200" width="62" height="43" side="right" fold="false" treesize="43" color="#f37329" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>raylib</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="15" posx="1082.0526315789475" posy="512.27192982456143" maxwidth="200" width="70" height="43" side="right" fold="false" treesize="43" color="#f37329" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>OGRE</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="17" posx="1082.0526315789475" posy="555.27192982456143" maxwidth="200" width="79" height="43" side="right" fold="false" treesize="43" color="#f37329" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Ogre3D</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="19" posx="798.05263157894763" posy="598.27192982456143" maxwidth="200" width="99" height="43" side="right" fold="false" treesize="43" color="#f37329" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Framework</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="21" posx="598.05263157894751" posy="662.77192982456143" maxwidth="200" width="67" height="43" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Visual</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="23" posx="765.05263157894751" posy="641.27192982456143" maxwidth="200" width="92" height="43" side="right" fold="false" treesize="43" color="#f9c440" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Scriptable</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="25" posx="765.05263157894751" posy="684.27192982456143" maxwidth="200" width="134" height="43" side="right" fold="false" treesize="43" color="#f9c440" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="bracket" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Just drag &amp; drop</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>

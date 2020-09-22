@@ -1,0 +1,693 @@
+<?xml version="1.0"?>
+<minder version="1.9.0">
+  <theme name="default" label="Default" index="4"/>
+  <styles>
+    <style level="0" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-833.66965738932299" y="412.32952880859295" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="1280.6696573893216" posy="74.670471191407273" maxwidth="200" width="144" height="54" side="left" fold="true" treesize="54" layout="Downwards">
+      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>Open Source
+Game Asset Editor</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="3" posx="355.16965738932163" posy="232.67047119140682" maxwidth="200" width="43" height="39" side="bottom" fold="true" treesize="626.0000000000008" color="#c6262e" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>2D</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="137.66965738932208" posy="371.67047119140705" maxwidth="200" width="62" height="39" side="bottom" fold="true" treesize="210" color="#c6262e" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Sprite</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="7" posx="63.669657389321628" posy="510.67047119140682" maxwidth="200" width="52" height="39" side="bottom" fold="true" treesize="52" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>rx</nodename>
+                  <nodenote>https://rx.cloudhead.io/</nodenote>
+                </node>
+                <node id="9" posx="115.66965738932163" posy="510.67047119140682" maxwidth="200" width="64" height="39" side="bottom" fold="true" treesize="64" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Synfig</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="11" posx="179.66965738932208" posy="510.67047119140682" maxwidth="200" width="94" height="39" side="bottom" fold="true" treesize="94" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>LibreSprite</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="13" posx="449.66965738932208" posy="371.67047119140705" maxwidth="200" width="64" height="39" side="bottom" fold="true" treesize="416.00000000000023" color="#c6262e" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Image</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="15" posx="341.16965738932208" posy="510.67047119140682" maxwidth="200" width="54" height="39" side="bottom" fold="true" treesize="189" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Pixel</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="17" posx="273.66965738932254" posy="649.67047119140602" maxwidth="200" width="94" height="39" side="bottom" fold="true" treesize="94" color="#c6262e" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>LibreSprite</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="19" posx="367.66965738932208" posy="649.67047119140602" maxwidth="200" width="95" height="39" side="bottom" fold="true" treesize="95" color="#c6262e" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Pixelorama</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="21" posx="543.66965738932208" posy="510.67047119140682" maxwidth="200" width="65" height="39" side="bottom" fold="true" treesize="226.99999999999955" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Vector</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="23" posx="462.66965738932254" posy="649.67047119140602" maxwidth="200" width="54" height="39" side="bottom" fold="true" treesize="54" color="#c6262e" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Krita</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="25" posx="516.66965738932208" posy="649.67047119140602" maxwidth="200" width="81" height="39" side="bottom" fold="true" treesize="81" color="#c6262e" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Inkscape</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="27" posx="597.66965738932208" posy="649.67047119140602" maxwidth="200" width="92" height="39" side="bottom" fold="true" treesize="92" color="#c6262e" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>excalidraw</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="29" posx="1013.1696573893239" posy="232.67047119140682" maxwidth="200" width="43" height="39" side="bottom" fold="true" treesize="689.99999999999955" color="#f37329" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>3D</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="31" posx="727.16965738932254" posy="371.67047119140705" maxwidth="200" width="104" height="39" side="bottom" fold="true" treesize="179" color="#f37329" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Character</nodename>
+              <nodenote>- Modelling
+- Rigging
+- UV Map</nodenote>
+              <nodes>
+                <node id="33" posx="689.66965738932299" posy="510.67047119140682" maxwidth="200" width="90" height="39" side="bottom" fold="true" treesize="90" color="#f37329" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Blender</nodename>
+                  <nodenote>https://www.youtube.com/playlist?list=PLC7nmYI-cbT1JN7OADBFhSnpkV-odrMyW</nodenote>
+                </node>
+                <node id="35" posx="779.66965738932299" posy="510.67047119140682" maxwidth="200" width="89" height="39" side="bottom" fold="true" treesize="89" color="#f37329" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Dust3D</nodename>
+                  <nodenote>https://www.youtube.com/playlist?list=PLwdeJ8GmnTz4mXwtfsG8rPZknxijEG7Hw</nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="37" posx="1000.1696573893234" posy="371.67047119140705" maxwidth="200" width="74" height="39" side="bottom" fold="true" treesize="337" color="#f37329" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Level</nodename>
+              <nodenote>- High space model
+- Randomize model
+- Real-data based model</nodenote>
+              <nodes>
+                <node id="39" posx="868.66965738932299" posy="510.67047119140682" maxwidth="200" width="130" height="39" side="bottom" fold="true" treesize="130" color="#f37329" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Sweet Home 3D</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="41" posx="998.66965738932345" posy="510.67047119140682" maxwidth="200" width="88" height="39" side="bottom" fold="true" treesize="88" color="#f37329" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Sprytile</nodename>
+                  <nodenote>Blender addon</nodenote>
+                </node>
+                <node id="43" posx="1086.6696573893234" posy="510.67047119140682" maxwidth="200" width="119" height="39" side="bottom" fold="true" treesize="119" color="#f37329" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Blender GIS</nodename>
+                  <nodenote>GIS data can be obtained from:
+- QGIS
+- Mapzen</nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="45" posx="1255.1696573893212" posy="371.67047119140705" maxwidth="200" width="75" height="39" side="bottom" fold="true" treesize="174" color="#f37329" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Mesh</nodename>
+              <nodenote>- Modelling
+- UV Map</nodenote>
+              <nodes>
+                <node id="47" posx="1205.6696573893221" posy="510.67047119140682" maxwidth="200" width="90" height="39" side="bottom" fold="true" treesize="90" color="#f37329" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Blender</nodename>
+                  <nodenote>https://www.youtube.com/playlist?list=PLC7nmYI-cbT1JN7OADBFhSnpkV-odrMyW</nodenote>
+                </node>
+                <node id="49" posx="1295.6696573893212" posy="510.67047119140682" maxwidth="200" width="84" height="39" side="bottom" fold="true" treesize="84" color="#f37329" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>FreeCAD</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="51" posx="1506.1696573893205" posy="232.67047119140682" maxwidth="200" width="53" height="39" side="bottom" fold="true" treesize="305.99999999999955" color="#f9c440" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>VFX</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="53" posx="1379.6696573893216" posy="371.67047119140705" maxwidth="200" width="116" height="39" side="bottom" fold="true" treesize="116" color="#f9c440" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>SHADERed</nodename>
+              <nodenote>https://shadered.org/</nodenote>
+            </node>
+            <node id="55" posx="1495.6696573893207" posy="371.67047119140705" maxwidth="200" width="100" height="39" side="bottom" fold="true" treesize="100" color="#f9c440" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>ShaderFrog</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="57" posx="1595.6696573893205" posy="371.67047119140705" maxwidth="200" width="90" height="39" side="bottom" fold="true" treesize="90" color="#f9c440" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Shadertoy</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="59" posx="2132.6696573893219" posy="232.67047119140682" maxwidth="200" width="66" height="39" side="bottom" fold="true" treesize="960.00000000000114" color="#68b723" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Sound</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="61" posx="1942.16965738932" posy="371.67047119140705" maxwidth="200" width="53" height="39" side="bottom" fold="true" treesize="565.99999999999977" color="#68b723" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>SFX</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="63" posx="1685.6696573893212" posy="510.67047119140682" maxwidth="200" width="69" height="39" side="bottom" fold="true" treesize="69" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Zrythm</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="65" posx="1817.1696573893173" posy="510.67047119140682" maxwidth="200" width="128" height="39" side="bottom" fold="true" treesize="252.99999999999909" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>SuperCollider</nodename>
+                  <nodenote>Very handy for creating SFX
+
+It has a lot of derivative in several programming language:
+- FoxDot (Python)
+- Sonic Pi (Ruby)
+- TidalCycles (Haskell</nodenote>
+                  <nodes>
+                    <node id="67" posx="1754.66965738932" posy="649.67047119140602" maxwidth="200" width="79" height="54" side="bottom" fold="true" treesize="79" color="#68b723" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>FoxDot
+(Python)</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="69" posx="1833.6696573893182" posy="649.67047119140602" maxwidth="200" width="98" height="54" side="bottom" fold="true" treesize="98" color="#68b723" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>TidalCycles
+(Haskell)</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="71" posx="1931.66965738932" posy="649.67047119140602" maxwidth="200" width="76" height="54" side="bottom" fold="true" treesize="76" color="#68b723" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Sonic Pi
+(Ruby)</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="73" posx="2007.66965738932" posy="510.67047119140682" maxwidth="200" width="75" height="39" side="bottom" fold="true" treesize="75" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>rFXGen</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="134" posx="2082.66965738932" posy="510.67047119140682" maxwidth="200" width="90" height="39" side="bottom" fold="true" treesize="90" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>zzfx/zzfxm</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="75" posx="2172.66965738932" posy="510.67047119140682" maxwidth="200" width="79" height="39" side="bottom" fold="true" treesize="79" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Audacity</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="77" posx="2280.1696573893219" posy="371.67047119140705" maxwidth="200" width="88" height="39" side="bottom" fold="true" treesize="145" color="#68b723" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Ambience</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="79" posx="2251.66965738932" posy="510.67047119140682" maxwidth="200" width="79" height="39" side="bottom" fold="true" treesize="79" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Audacity</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="81" posx="2330.66965738932" posy="510.67047119140682" maxwidth="200" width="66" height="39" side="bottom" fold="true" treesize="66" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>LMMS</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="83" posx="2490.6696573893219" posy="371.67047119140705" maxwidth="200" width="61" height="39" side="bottom" fold="true" treesize="249" color="#68b723" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Music</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="85" posx="2396.6696573893219" posy="510.67047119140682" maxwidth="200" width="68" height="39" side="bottom" fold="true" treesize="68" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Ardour</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="87" posx="2464.6696573893219" posy="510.67047119140682" maxwidth="200" width="112" height="39" side="bottom" fold="true" treesize="112" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>FamiStudio</nodename>
+                  <nodenote>8 Bit audio</nodenote>
+                </node>
+                <node id="89" posx="2576.6696573893219" posy="510.67047119140682" maxwidth="200" width="69" height="39" side="bottom" fold="true" treesize="69" color="#68b723" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Mixx</nodename>
+                  <nodenote>https://mixx.org/
+
+Very handy for creating SFX via beat looping</nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="90" posx="1279.2495727539051" posy="229.22113037109386" maxwidth="200" width="203" height="54" side="top" fold="false" treesize="2765.9999999999909" layout="Downwards">
+      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>Make Money as Indie Game
+without Legal Entity</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="92" posx="409.7495727539083" posy="383.22113037109386" maxwidth="200" width="96" height="39" side="bottom" fold="false" treesize="1018.9999999999995" color="#c6262e" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Distribution</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="127" posx="-51.750427246091704" posy="522.22113037109386" maxwidth="200" width="119" height="39" side="bottom" fold="false" treesize="118.99999999999997" color="#c6262e" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Cross Platform</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="105" posx="-22.750427246091704" posy="661.22113037109455" maxwidth="200" width="61" height="39" side="bottom" fold="false" treesize="61" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>itch.io</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="128" posx="192.2495727539083" posy="522.22113037109386" maxwidth="200" width="53" height="39" side="bottom" fold="false" treesize="303" color="#c6262e" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Web</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="125" posx="67.249572753908296" posy="661.22113037109455" maxwidth="200" width="160" height="39" side="bottom" fold="false" treesize="159.99999999999994" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>gamedistribution.com</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="140" posx="227.2495727539083" posy="661.22113037109455" maxwidth="200" width="143" height="39" side="bottom" fold="false" treesize="143" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>kongregate.com</nodename>
+                  <nodenote>https://docs.kongregate.com/docs</nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="138" posx="411.2495727539083" posy="522.22113037109341" maxwidth="200" width="45" height="39" side="bottom" fold="false" treesize="127" color="#c6262e" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>PC</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="139" posx="370.2495727539083" posy="661.22113037109364" maxwidth="200" width="127" height="39" side="bottom" fold="false" treesize="127" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>kartridge.com</nodename>
+                  <nodenote>https://developers.kartridge.com/</nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="129" posx="666.7495727539083" posy="522.22113037109386" maxwidth="200" width="131" height="39" side="bottom" fold="false" treesize="470" color="#c6262e" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Platform Specific</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="96" posx="497.2495727539083" posy="661.22113037109455" maxwidth="200" width="106" height="39" side="bottom" fold="false" treesize="106" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Play Store</nodename>
+                  <nodenote>support TWA
+
+https://developers.google.com/web/android/trusted-web-activity</nodenote>
+                </node>
+                <node id="130" posx="603.2495727539083" posy="661.22113037109455" maxwidth="200" width="148" height="39" side="bottom" fold="false" treesize="148" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Chrome Web Store</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="131" posx="751.2495727539083" posy="661.22113037109455" maxwidth="200" width="78" height="39" side="bottom" fold="false" treesize="78" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Mi Store</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="137" posx="829.2495727539083" posy="661.22113037109455" maxwidth="200" width="138" height="39" side="bottom" fold="false" treesize="138" color="#c6262e" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Windows Store</nodename>
+                  <nodenote>exclusively support PWA
+
+https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-edgehtml/microsoft-store</nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="93" posx="1096.2495727539074" posy="383.22113037109386" maxwidth="200" width="84" height="39" side="bottom" fold="false" treesize="346" color="#f37329" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Publisher</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="98" posx="965.24957275390739" posy="522.22113037109386" maxwidth="200" width="58" height="39" side="bottom" fold="false" treesize="58" color="#f37329" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>fig.co</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="99" posx="1023.2495727539074" posy="522.22113037109386" maxwidth="200" width="145" height="39" side="bottom" fold="false" treesize="145" color="#f37329" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>humblegames.com</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="141" posx="1168.2495727539074" posy="522.22113037109386" maxwidth="200" width="143" height="39" side="bottom" fold="false" treesize="143" color="#f37329" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>kongregate.com</nodename>
+              <nodenote>http://developers.kongregate.com/publishing</nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="94" posx="1892.2495727539049" posy="383.22113037109386" maxwidth="200" width="105" height="39" side="bottom" fold="false" treesize="1262.9999999999959" color="#f9c440" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Monetization</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="101" posx="1373.2495727539065" posy="522.22113037109386" maxwidth="200" width="82" height="39" side="bottom" fold="false" treesize="206" color="#f9c440" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Premium</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="102" posx="1311.2495727539065" posy="661.22113037109455" maxwidth="200" width="145" height="39" side="bottom" fold="false" treesize="145" color="#f9c440" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>humblegames.com</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="104" posx="1456.2495727539056" posy="661.22113037109455" maxwidth="200" width="61" height="39" side="bottom" fold="false" treesize="61" color="#f9c440" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>itch.io</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="100" posx="1891.7495727539049" posy="522.22113037109386" maxwidth="200" width="88" height="39" side="bottom" fold="false" treesize="836.99999999999955" color="#f9c440" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Freemium</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="106" posx="1760.249572753904" posy="661.22113037109455" maxwidth="200" width="48" height="39" side="bottom" fold="false" treesize="534" color="#f9c440" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>IAP</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="109" posx="1538.2495727539044" posy="800.2211303710942" maxwidth="200" width="215" height="39" side="bottom" fold="false" treesize="257" color="#f9c440" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Payment Gateway/Processing</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="114" posx="1527.7495727539044" posy="939.2211303710933" maxwidth="200" width="110" height="39" side="bottom" fold="false" treesize="131" color="#f9c440" colorroot="false" layout="Downwards">
+                          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>midtrans.com</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="119" posx="1517.2495727539044" posy="1078.2211303710933" maxwidth="200" width="131" height="41" side="bottom" fold="false" treesize="131" color="#f9c440" colorroot="false" layout="Downwards">
+                              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                              <formatting/>
+                              <nodename>&#x2200;(&#x1F1EE;&#x1F1E9;, &#x1F45D;|&#x1F45B;|&#x1F3E6;)</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="116" posx="1648.2495727539044" posy="939.2211303710933" maxwidth="200" width="126" height="39" side="bottom" fold="false" treesize="126" color="#f9c440" colorroot="false" layout="Downwards">
+                          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>revenuecat.com</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="115" posx="1666.2495727539042" posy="1078.2211303710933" maxwidth="200" width="90" height="39" side="bottom" fold="false" treesize="90" color="#f9c440" colorroot="false" layout="Downwards">
+                              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                              <formatting/>
+                              <nodename>stripe.com</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="110" posx="1774.249572753904" posy="800.2211303710942" maxwidth="200" width="134" height="39" side="bottom" fold="false" treesize="134" color="#f9c440" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Webmonetization</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="111" posx="1803.2495727539031" posy="939.2211303710933" maxwidth="200" width="76" height="39" side="bottom" fold="false" treesize="76" color="#f9c440" colorroot="false" layout="Downwards">
+                          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>coil.com</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="112" posx="1915.7495727539058" posy="800.2211303710942" maxwidth="200" width="128" height="39" side="bottom" fold="false" treesize="143" color="#f9c440" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Platform specific</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="113" posx="1946.7495727539058" posy="939.2211303710933" maxwidth="200" width="66" height="39" side="bottom" fold="false" treesize="143" color="#f9c440" colorroot="false" layout="Downwards">
+                          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>Mobile</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="108" posx="1908.2495727539058" posy="1078.2211303710933" maxwidth="200" width="143" height="39" side="bottom" fold="false" treesize="143" color="#f9c440" colorroot="false" layout="Downwards">
+                              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                              <formatting/>
+                              <nodename>Google Play Billing</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="107" posx="2178.249572753904" posy="661.22113037109455" maxwidth="200" width="49" height="39" side="bottom" fold="false" treesize="303" color="#f9c440" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Ads</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="126" posx="2051.249572753904" posy="800.2211303710942" maxwidth="200" width="160" height="39" side="bottom" fold="false" treesize="160" color="#f9c440" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>gamedistribution.com</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="142" posx="2211.249572753904" posy="800.2211303710942" maxwidth="200" width="143" height="39" side="bottom" fold="false" treesize="143" color="#f9c440" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>kongregate.com</nodename>
+                      <nodenote>https://docs.kongregate.com/docs</nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="120" posx="2400.249572753904" posy="522.22113037109386" maxwidth="200" width="132" height="39" side="bottom" fold="false" treesize="223.99999999999909" color="#f9c440" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Cross Promotion</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="123" posx="2375.749572753904" posy="661.22113037109455" maxwidth="200" width="88" height="39" side="bottom" fold="false" treesize="123" color="#f9c440" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Internal</nodename>
+                  <nodenote>Only promote your own games</nodenote>
+                  <nodes>
+                    <node id="121" posx="2358.249572753904" posy="800.2211303710942" maxwidth="200" width="123" height="39" side="bottom" fold="false" treesize="123" color="#f9c440" colorroot="false" layout="Downwards">
+                      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>Humble Widget</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="124" posx="2481.2495727539022" posy="661.22113037109455" maxwidth="200" width="93" height="39" side="bottom" fold="false" treesize="93" color="#f9c440" colorroot="false" layout="Downwards">
+                  <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>External</nodename>
+                  <nodenote>Promote 3rd party games</nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="132" posx="2600.7495727539003" posy="383.22113037109386" maxwidth="200" width="87" height="39" side="bottom" fold="false" treesize="140" color="#68b723" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Marketing</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="133" posx="2574.2495727538985" posy="522.22113037109386" maxwidth="200" width="140" height="39" side="bottom" fold="false" treesize="140" color="#68b723" colorroot="false" layout="Downwards">
+              <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Mi Seagull Project</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="135" posx="1279.2495727539051" posy="1219.2211303710933" maxwidth="200" width="144" height="39" side="left" fold="false" treesize="178" layout="Downwards">
+      <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>Social / Multiplayer</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="136" posx="1300.7495727539051" posy="1358.2211303710933" maxwidth="200" width="101" height="39" side="bottom" fold="false" treesize="101" color="#3689e6" colorroot="false" layout="Downwards">
+          <style linktype="squared" linkwidth="2" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="3" nodefill="false" nodemargin="7" nodepadding="5" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>playfab.com</nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <connections>
+    <connection from_id="33" to_id="47" drag_x="709.30084228515545" drag_y="591.29130045573015" color="#777777">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="85" to_id="81" drag_x="2380.4050089518205" drag_y="586.44409179687659" color="#777777">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+      <title>DAW</title>
+      <note></note>
+    </connection>
+    <connection from_id="11" to_id="17" drag_x="235.92942301432481" drag_y="628.67944335937614" color="#777777">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="63" to_id="85" drag_x="1978.7529703776022" drag_y="874.18646240234466">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="75" to_id="79" drag_x="2253.1283976236937" drag_y="581.6790161132833">
+      <style connectiondash="dotted" connectionwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10"/>
+      <title></title>
+      <note></note>
+    </connection>
+  </connections>
+</minder>
